@@ -60,7 +60,7 @@ ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
 git clone https://github.com/Shizothetechie/Wiley-md 
-cd games-wabot
+cd Wiley-md
 yarn
 ```
 
