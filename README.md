@@ -5,8 +5,8 @@ WhatsApp Multi-device Bot Script made using baileys. This script is under develo
 ### FOR TERMUX USER
 1. Type mentioned below given commands one by one in Termux.
 ```sh
+$ pkg upgrade && pkg update 
 $ pkg install yarn
-$ pkg upgrade && pkg update
 $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
