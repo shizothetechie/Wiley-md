@@ -1,7 +1,48 @@
 # Wiley-md
 WhatsApp Multi-device Bot Script made using baileys. This script is under development will be available soon. Thank You Regards TE DEVELOPERS 🔥⚡
 
+```sh
+This Source code is made by TE Developers
 
+• Gariox 3D
+
+• Shizo The Techie
+
+Mention this Wiley-md repository wherever you use any of our code.
+
+Put the link: https://github.com/shizothetechie/Wiley-md
+
+Thank You 
+
+Team ERROR 
+
+Regards
+
+Wiley-md,
+
+ TE Developers 
+
+This Source code is made by TE Developers
+
+• Gariox 3D
+
+• Shizo The Techie
+
+Mention this Wiley-md repository wherever you use any of our code.
+
+Put the link: https://github.com/shizothetechie/Wiley-md
+
+Thank You 
+
+Team ERROR 
+
+Regards
+
+Wiley-md,
+
+ TE Developers 
+
+```
 ### FOR TERMUX USER
 1. Type mentioned below given commands one by one in Termux.
 ```sh
