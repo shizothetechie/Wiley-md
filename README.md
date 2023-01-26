@@ -154,14 +154,6 @@ you can convert single file auth to multiple file auth using this argument, it w
 
 
 
-### How to delete session?
-> You can delete folder `sessions` or run command ```rm -rf sessions```
-
-
-### Why i can't scan qr code?
-> if your error like this ```(node:7016) UnhandledPromiseRejectionWarning: TypeError [ERR_INVALID_ARG_TYPE]: The "key" argument must be of type string or an instance of Buffer, TypedArray, DataView, or KeyObject. Received undefined``` you can use [multi-device branch](https://github.com/BochilGaming/games-wabot/tree/multi-device)
-
-
 ### How to change owner number?
 > You can change in `config.js`, on global.owner. make sure you use correct syntax.
 ```js
