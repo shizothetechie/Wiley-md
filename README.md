@@ -20,7 +20,7 @@ If error try using yarn instead of npm, see [here](https://github.com/BochilGami
 $ node .
 ```
 2. Wait for bot starting...
-3. Scan QR code from 2nd device. (Go to whatsapp > Linked Devices > Join `Multi Device Beta` > Click on `link device`)
+3. Scan QR code from 2nd device. (Go to whatsapp > Linked Devices > Click on `link device`)
 4. Now your bot is ready to rock n roll.
 
 #### If npm install failed, try using yarn instead of npm
