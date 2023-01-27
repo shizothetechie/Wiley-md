@@ -7,7 +7,7 @@ import { fileURLToPath } from 'url'
 global.bname = 'Wiley-md'     //Your Bot Name
 global.oname = 'Gariox & Shizo'     //Your Name
 global.iglink = 'https://Instagram.com/shizo_the_tech'     //Your Instagram Link
-global.ytlink = 'https://YouTube.com/@errormodsyt      //Your YouTube Channel Link
+global.ytlink = 'https://YouTube.com/@errormodsyt'      //Your YouTube Channel Link
 global.stkpack = 'Wiley-MD'      //Here name tha your want on sticker
 
 
