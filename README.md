@@ -62,72 +62,6 @@ node .
 ```
 
 ---------
-
-## Arguments `node . [--options] [<session name>]`
-
-### `--self`
-
-Activate self mode (Ignores other)
-
-### `--pconly`
-
-If that chat not from private bot, bot will ignore
-
-### `--gconly`
-
-If that chat not from group, bot will ignore
-
-### `--swonly`
-
-If that chat not from status, bot will ignore
-
-### `--prefix <prefixes>`
-
-* `prefixes` are seperated by each character
-Set prefix
-
-### `--server`
-
-Used for [heroku](https://heroku.com/) or scan through website
-
-### `--restrict`
-
-Enables restricted plugins (which can lead your number to be **banned** if used too often)
-
-* Group Administration `add, kick`
-
-### `--img`
-
-Enable image inspector through terminal
-
-### `--autoread`
-
-If enabled, all incoming messages will be marked as read
-
-### `--autocleartmp`
-
-If enabled, **tmp* folder contain files will be auto delete
-
-### `--nyimak`
-
-No bot, just print received messages and add users to database
-
-### `--test`
-
-**Development** Testing Mode
-
-### `--db`
-
-pass mongodb url or cloud url to connect to database, by the default it will connect to database.json
-
-### `--singleauth`
-
-you can convert single file auth to multiple file auth using this argument, it will convert if you have single file auth and folder multi auth is empty (creds.json is not exist)
-
----------
-
-
-
 ### How to change owner number?
 > You can change in `config.js`, on global.owner. make sure you use correct syntax.
 ```js
@@ -139,19 +73,8 @@ global.owner = [
 
 ---------
 
-### want to contribute to Wiley-md??
-1. fork this repository
-2. Change/edit/create what you want. for example you can add features, fix bug, etc
-3. **test** before making a pull req!!
-4. make a pull req!
-5. if your pull req is already in **acc/merge**, you can delete your branch or you can create pull req again :)
-
----------
-
-
 ### Thanks To 
 **GOD 🙏**,
-
 **Gariox 3D**,
-
+**Shizo The Techie**,
 **Everyone who always supports**
