@@ -15,7 +15,6 @@ $ git clone https://github.com/Shizothetechie/Wiley-md
 $ cd Wiley-md 
 $ yarn
 ```
-If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```sh
 $ node .
 ```
