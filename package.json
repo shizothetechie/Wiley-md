@@ -1,11 +1,12 @@
 {
     "name": "Wiley-md",
-    "version": "1.0.1",
+    "version": "2.0.1",
     "description": "Lightweight WhatsApp Bot made Using baileys by TE Devs",
     "main": "index.js",
     "type": "module",
     "directories": {
         "lib": "lib",
+        "tmp": "tmp",
         "src": "src",
         "plugins": "plugins"
     },
@@ -68,6 +69,9 @@
         "terminal-image": "^2.0.0",
         "wa-sticker-formatter": "^4.3.2",
         "url-regex-safe": "^3.0.0",
-        "yargs": "^17.3.1"
+        "yargs": "^17.3.1",
+        "chatbotapi" : "^1.4.2",
+
+          "openai" : "^3.1.0"
     }
 }
