@@ -20,10 +20,6 @@ global.ytlink = 'https://YouTube.com/@errormodsyt'      //Your YouTube Channel L
 global.gclink = 'https://chat.whatsapp.com/F8QOoaz3qWqJlI2mwpa1QH' //Your WhatsApp Group Link
 global.script = 'https://github.com/Shizothetechie/wiley-md'  //Donot Change if you appreciate our work 🙂❤️
 
-//ApiKeys (Leave as it is if dont wana face any bug)
-global.openaiKey = ' Your Key Here guys'
-global.shizokeys = 'shizo' //do not change
-global.shizoApikeys = 'shizo' //do not change
 
 //Global Texts
 global.maker = 'Made with ❤️ by TE Developers'
