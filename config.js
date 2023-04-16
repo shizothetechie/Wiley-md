@@ -21,21 +21,6 @@ global.gclink = 'https://chat.whatsapp.com/F8QOoaz3qWqJlI2mwpa1QH' //Your WhatsA
 global.script = 'https://github.com/Shizothetechie/wiley-md'  //Donot Change if you appreciate our work 🙂❤️
 
 
-//Global Texts
-global.maker = 'Made with ❤️ by TE Developers'
-
-// Sticker WM
-global.packname = 'TE DEVELOPERS'
-global.author = 'Wiley-md'
-
-//Copyrights #MATY
-global.copyright = 'TE DEVELOPERS'
-global.packname = 'Wiley-md'
-global.author = 'TE DEVELOPERS'
-
-//sticker WM (change accordingly)
-global.stkpack = 'Wiley-md'
-global.stkowner = 'TE DEVELOPERS'
 
 //Global ImgRes #NMTM
 global.menuimg = fs.readFileSync('./media/menu.png')
