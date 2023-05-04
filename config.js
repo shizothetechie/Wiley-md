@@ -15,6 +15,7 @@ global.prems = []
 //Make Changes #ATY
 global.bname = 'Wiley-md'     //Your Bot Name
 global.oname = 'Gariox & Shizo'     //Your Name
+global.onum = '919172389527' //Number for status forwarding 
 global.iglink = 'https://Instagram.com/error.mods'     //Your Instagram Link
 global.ytlink = 'https://YouTube.com/@errormodsyt'      //Your YouTube Channel Link
 global.gclink = 'https://chat.whatsapp.com/F8QOoaz3qWqJlI2mwpa1QH' //Your WhatsApp Group Link
